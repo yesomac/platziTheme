@@ -1,0 +1,42 @@
+{
+    "name": "platzi-theme",
+    "displayName": "Platzi_theme",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "keywords": [
+        "Theme",
+        "Platzi Theme",
+        "Platzi Theme II"
+    ],
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Platzi Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Platzi Theme-color-theme.json"
+            },
+            {
+                "label": "Platzi Theme II",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Platzi Theme-color-themeII.json"
+            }
+        ]
+    },
+    "icon": "img/dark.png",
+    "author": {
+        "name": "Yes Dev",
+        "email": "yesdev19@gmail.com"
+    },
+    "repository": {
+        "url": "https://github.com/yesomac/platzi_theme.git",
+        "type": "git"
+    },
+    "publisher": "YesCode",
+    "license": "MIT"
+}
