@@ -2,26 +2,23 @@
 	"name": "Platzi Theme",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#121f3d",
+        //121f3d
+		"editor.background": "#03091e",
 		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#121d03",
+		"activityBarBadge.background": "#07314bde",
 		"sideBarTitle.foreground": "#bbbbbb",
 
-		"statusBar.background": "#7fab3e",
+		"statusBar.background": "#1b2c4c",
 		"statusBar.noFolderBackground": "#000914",
 		"statusBar.debuggingBackground": "#02388a",
-		"sideBar.background": "#40587c",
+		"sideBar.background": "#121f3d",
 		"sideBarSectionHeader.background": "#40587c",
 		"sideBarSectionHeader.foreground": "#fff",
-		"tab.activeBackground": "#121f3d",
+		"tab.activeBackground": "#03091e",
 		"tab.inactiveBackground": "#121f3d",
 		"tab.hoverBackground": "#05144796",
-		"tab.activeBorder": "#121f3d",
-		"tab.activeBorderTop": "#7fab3e",
-		"tab.activeForeground": "#e8dfda",
-
+		"tab.activeBorderTop": "#121f3d",
 		"tab.border": "#121f3d",
-
 		"activityBar.background": "#121f3d",
 		"titleBar.activeBackground": "#121f3d",
 		"editorGroupHeader.tabsBackground": "#121f3d",
@@ -31,14 +28,14 @@
 		"editor.lineHighlightBackground": "#40587c52",
 		"editorIndentGuide.activeBackground": "#416aa5",
 
-		"activityBar.foreground": "#98ca3f",
+		"activityBar.foreground": "#74caff",
 
 		"menu.background": "#121f3d",
 		"notifications.background": "#121f3d",
 		"button.background": "#7fab3e",
 		"button.secondaryBackground": "#7fab3e",
 
-		"quickInput.background": "#121f3d",
+		"quickInput.background": "#03091e",
 
 		"input.border": "#7fab3e",
 		"input.background": "#40587c65",
@@ -63,7 +60,7 @@
 		"list.activeSelectionBackground": "#425c3d67",
 
 		"titleBar.activeForeground": "#efe9d8",
-		"terminal.background": "#121f3d",
+		"terminal.background": "#03091e",
 		"terminal.foreground": "#c0d5f3",
 		"terminal.ansiBlack": "#1D2021",
 		"terminal.ansiBrightBlack": "#665C54",
@@ -91,7 +88,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#80ab3e5b"
+				"foreground": "#3eabab5b"
 			}
 		},
 		{
@@ -101,7 +98,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#7fab3e"
+				"foreground": "#e0ce2c"
 			}
 		},
 		{
@@ -131,7 +128,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#a6e054"
+				"foreground": "#e05454"
 			}
 		},
 		{
@@ -151,7 +148,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#bcf862"
+				"foreground": "#0ce931"
 			}
 		},
 		{
@@ -162,7 +159,7 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#7fab3e"
+				"foreground": "#b2e468"
 			}
 		},
 		{
@@ -175,7 +172,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#0066ff"
+				"foreground": "#ff0037"
 			}
 		},
 		{
@@ -210,7 +207,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#7fab3e"
+				"foreground": "#ee91a5"
 			}
 		},
 		{

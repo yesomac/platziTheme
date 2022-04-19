@@ -9,7 +9,8 @@
     "keywords": [
         "Theme",
         "Platzi Theme",
-        "Platzi Theme II"
+        "Platzi Theme II",
+        "Platzi Theme III"
     ],
     "categories": [
         "Themes"
@@ -25,6 +26,11 @@
                 "label": "Platzi Theme II",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Platzi Theme-color-themeII.json"
+            },
+            {
+                "label": "Platzi Theme III",
+                "uiTheme": "vs-dark",
+                "path": "./themes/PlatziThemeGreen-color-theme.json"
             }
         ]
     },
