@@ -10,7 +10,8 @@
         "Theme",
         "Platzi Theme",
         "Platzi Theme II",
-        "Platzi Theme III"
+        "Platzi Theme III",
+        "Platzi Theme IV"
     ],
     "categories": [
         "Themes"
@@ -31,6 +32,11 @@
                 "label": "Platzi Theme III",
                 "uiTheme": "vs-dark",
                 "path": "./themes/PlatziThemeGreen-color-theme.json"
+            },
+            {
+                "label": "Platzi Theme IV",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Platzi ThemeIV-color-theme.json"
             }
         ]
     },
