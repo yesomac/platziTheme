@@ -5,7 +5,7 @@
     //03091e
     "editor.background": "#03091e",
     "editor.foreground": "#eeffff",
-    "activityBarBadge.background": "#04f5e9",
+    "activityBarBadge.background": "#00817b",
     "sideBarTitle.foreground": "#bbbbbb",
     "statusBar.background": "#1b2c4c",
     "statusBar.noFolderBackground": "#000914",
@@ -124,7 +124,7 @@
     "button.foreground": "#ddd",
     "button.hoverBackground": "#1a305d",
     "button.secondaryForeground": "#ddd",
-    "button.secondaryHoverBackground": "#1a305d"
+    "button.secondaryHoverBackground": "#1a305d",
   },
   "tokenColors": [
     {
