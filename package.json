@@ -2,7 +2,7 @@
     "name": "platzi-theme",
     "displayName": "Platzi_theme",
     "description": "",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "engines": {
         "vscode": "^1.66.0"
     },
@@ -10,9 +10,11 @@
         "Theme",
         "Platzi Theme",
         "Platzi Theme(Light)",
+        "Platzi Theme(LightII)",
         "Platzi Theme II",
         "Platzi Theme III",
-        "Platzi Theme IV"
+        "Platzi Theme IV",
+        "Platzi Theme V"
     ],
     "categories": [
         "Themes"
