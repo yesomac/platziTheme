@@ -14,7 +14,8 @@
         "Platzi Theme II",
         "Platzi Theme III",
         "Platzi Theme IV",
-        "Platzi Theme V"
+        "Platzi Theme V",
+        "Platzi Theme VI"
     ],
     "categories": [
         "Themes"
@@ -29,12 +30,7 @@
             {
                 "label": "Platzi Theme(Light)",
                 "uiTheme": "vs",
-                "path": "./themes/Platzi Theme-light-color-theme.json"
-            },
-            {
-                "label": "Platzi Theme(LightII)",
-                "uiTheme": "vs",
-                "path": "./themes/Platzi Theme-lightII-color-theme.json"
+                "path": "./themes/Platzi ThemeLight-color-theme.json"
             },
             {
                 "label": "Platzi Theme II",
@@ -55,6 +51,11 @@
                 "label": "Platzi Theme V",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Platzi ThemeV-color-theme.json"
+            },
+            {
+                "label": "Platzi Theme Sober",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Platzi Theme-sober-color-theme.json"
             }
         ]
     },
