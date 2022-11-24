@@ -56,6 +56,16 @@
                 "label": "Platzi Theme Sober",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Platzi Theme-sober-color-theme.json"
+            },
+            {
+                "label": "Platzi Theme Sober S",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Platzi Theme-sober-S-color-theme.json"
+            },
+            {
+                "label": "Platzi Theme Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Platzi Theme-dark-color-theme.json"
             }
         ]
     },
