@@ -1,6 +1,6 @@
 # Platzi-theme
 
-**New Themes**
+<!--**New Themes**
 
 ![This is an image](https://github.com/yesomac/platziTheme/blob/main/img/platzi-theme-sober.png?raw=true)
 
@@ -16,4 +16,11 @@
 
 ![This is an image](https://github.com/yesomac/platziTheme/blob/main/img/platzi_themeIV.png?raw=true)
 
-![This is an image](https://github.com/yesomac/platziTheme/blob/main/img/platzi-theme-V.png?raw=true)
+![This is an image](https://github.com/yesomac/platziTheme/blob/main/img/platzi-theme-V.png?raw=true)-->
+
+
+![This is a image](https://github.com/yesomac/platziTheme/blob/main/img/img/pt2.jpg?raw=true)
+
+#
+
+<!--![This is a image](https://github.com/yesomac/platziTheme/blob/main/img/img/pt3.jpg?raw=true)-->
