@@ -22,5 +22,5 @@
 ![This is a image](https://github.com/yesomac/platziTheme/blob/main/img/img/pt2.jpg?raw=true)
 
 #
-
+9 themes based on the colors of the platzi website
 <!--![This is a image](https://github.com/yesomac/platziTheme/blob/main/img/img/pt3.jpg?raw=true)-->
