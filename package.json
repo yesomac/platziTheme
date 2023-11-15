@@ -2,7 +2,7 @@
     "name": "platzi-theme",
     "displayName": "Platzi_theme",
     "description": "",
-    "version": "0.0.7",
+    "version": "0.0.8",
     "engines": {
         "vscode": "^1.66.0"
     },
@@ -16,6 +16,16 @@
     ],
     "contributes": {
         "themes": [
+            {
+                "label": "Platzi Theme 24",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Platzi Theme-24-color-theme.json"
+            },
+            {
+                "label": "Platzi Theme 24 Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Platzi Theme-24-Dark-color-theme.json"
+            },
             {
                 "label": "Platzi Theme",
                 "uiTheme": "vs-dark",
